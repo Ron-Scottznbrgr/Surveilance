@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9f6a799dfe27a3b43a610536e6dcde16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam_1: {fileID: 3218921889793151833, guid: cf401333fab063141815013bf662a041, type: 3}
+  - cam_2: {fileID: 1962708248746965103, guid: 831efcf8e82197146bc0b980c71eb91c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
